@@ -1,0 +1,4 @@
+designpatternsday11proxypattern.Windows11Genuine
+designpatternsday11proxypattern.RealImplementatin
+designpatternsday11proxypattern.Windows11
+designpatternsday11proxypattern.Windows11Trail

@@ -1,0 +1,4 @@
+designpatternsday11proxypattern.Test
+designpatternsday11proxypattern.X
+designpatternsday11proxypattern.XReal
+designpatternsday11proxypattern.XProxy
